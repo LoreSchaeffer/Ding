@@ -1,0 +1,9 @@
+# Change this to modify the percentage of match between the player name and the chat message
+name-percentage-match: 0.8
+# These worlds send a ding to the staff with the permission ding.staff. Use lower-case words
+staff-words:
+  - staff
+  - helper
+  - mod
+  - admin
+  - founder

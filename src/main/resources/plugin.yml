@@ -1,0 +1,10 @@
+name: Ding
+main: it.multicoredev.spigot.Ding
+version: 1.0.0
+api-version: 1.15
+author: LoreSchaeffer
+
+commands:
+  ding:
+    description: Main command
+    usage: /<command>
